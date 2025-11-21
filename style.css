@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f8ff;
+    color: #0a1a33;
+}
+header {
+    background: #0a1a33;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+.hero {
+    padding: 40px;
+    text-align: center;
+}
+.cta {
+    display: inline-block;
+    padding: 12px 24px;
+    background: #003e99;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.benefits {
+    padding: 30px;
+}
+footer {
+    text-align: center;
+    background: #0a1a33;
+    color: white;
+    padding: 20px;
+    margin-top: 40px;
+}
